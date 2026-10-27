@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ShuttleAI is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://shuttleai.com/
+ShuttleAI is an artificial intelligence company advancing the systems and ideas that shape what comes next. It builds AI infrastructure, developer tools, and intelligent products that make advanced models easier to access, integrate, and use, helping developers and enterprises accelerate AI adoption.
+
+**Areas:** AI · Infrastructure · DeveloperTools · Products · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://shuttleai.com/)
+- [Documentation](https://docs.shuttleai.com/)
+- [Getting started](https://docs.shuttleai.com/getting-started/introduction)
+- [API reference](https://docs.shuttleai.com/llms.txt)
+- [Pricing](https://docs.shuttleai.com/pricing/plans)
+- [Terms of service](https://shuttleai.com/terms)
+- [Privacy policy](https://shuttleai.com/privacy)
+- [GitHub](https://github.com/shuttleai)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/shuttleai/](https://apis.io/providers/shuttleai/).
